@@ -18,3 +18,5 @@ The first row corresponds to the x coordinate, while the second row corresponds 
 * Center of the ball
 * Minimun radius
 * Graphic
+
+The code base was obtained from the book **Introduction to Nonlinear Optimization Theory, Algorithms and Applications**.
