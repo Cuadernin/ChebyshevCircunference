@@ -15,3 +15,6 @@ _You have to change matrix A to modify the set of points._
 The first row corresponds to the x coordinate, while the second row corresponds to the y coordinate, that is, each column is a point.
 
 ## Output 📦
+* Center of the ball
+* Minimun radius
+* Graphic
