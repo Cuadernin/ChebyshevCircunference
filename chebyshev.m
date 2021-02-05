@@ -1,7 +1,7 @@
 %%%Este programa hace uso de la funcion de proyeccion en un 1-simplex
 %%Notese que tiene un gran parecido con el codigo de la proyeccion en un 1-simplex
 %%%Se tomo de referencia
-function[x r]=chebyshev(A)
+function[x,r]=chebyshev(A)
 d=size(A);
 m=d(2);
 V=2.*max(eig(A'*A)); %maximizamos valores propios de A(Es la constante de  Lipschitz del gradiente)                          
